@@ -1,0 +1,8 @@
+{
+  "name": "Image Resizer",
+  "description": "An application to customize image size and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
